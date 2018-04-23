@@ -1,2 +1,2 @@
 # LoginToken
-Tel Aviv Municipality login application which returns token directly
+Tel Aviv Municipality login window which returns token directly to window-opener
