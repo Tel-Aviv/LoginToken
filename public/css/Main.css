@@ -1,0 +1,14 @@
+﻿input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button{
+    -webkit-appearance:none;
+}
+
+.spanBtnText{
+    padding: 0px 3px 0px 3px;
+}
+
+.has-feedback .fa {
+    font: normal normal normal medium/2 FontAwesome;
+    color: #0499ee;
+}
+
